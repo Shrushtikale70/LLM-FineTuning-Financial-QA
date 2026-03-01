@@ -104,5 +104,5 @@ Financial AI systems must ensure:
 
 ## Author
 
-[Your Full Name]  
+[Shrushti Sanjay kale]  
 Coventry University  
